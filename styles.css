@@ -39,3 +39,21 @@ table, th, td {
     color: burlywood;
     padding: 20px;
 }
+
+.margin-padding-wrapper {
+    width: 200px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+.padding-example {
+    padding: 30px;
+    border: 2px solid coral;
+}
+
+.margin-example {
+    display:inline-block;
+    margin: 30px;
+    margin-top: 20px;
+    border: 2px solid coral;
+}
