@@ -16,6 +16,7 @@ table, th, td {
     border-style: solid;
     border-width: 2px;
 }
+
 .primary-button {
     background-color: blueviolet;
     color: floralwhite;
@@ -26,4 +27,15 @@ table, th, td {
     background-color: floralwhite;
     color: blueviolet;
     border-color: blueviolet;
+}
+
+.menu-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-item {
+    background-color: brown;
+    color: burlywood;
+    padding: 20px;
 }
