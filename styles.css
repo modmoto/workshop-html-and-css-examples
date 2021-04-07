@@ -2,6 +2,10 @@ table, th, td {
     border: 2px solid blue;
 }
 
+h3 {
+    color: darkolivegreen;
+}
+
 #headline {
     background-color: aqua;
     text-align: center;
