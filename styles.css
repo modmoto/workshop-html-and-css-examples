@@ -27,10 +27,18 @@ h3 {
     border-color: black;
 }
 
+.primary-button:hover {
+    background-color: deeppink;
+}
+
 .secondary-button {
     background-color: floralwhite;
     color: blueviolet;
     border-color: blueviolet;
+}
+
+.secondary-button:hover {
+    color: deeppink;
 }
 
 .menu-wrapper {
