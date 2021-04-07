@@ -74,13 +74,8 @@ h3 {
     padding: 20px;
 }
 
-.margin-padding-wrapper {
-    width: 200px;
-    height: 100px;
-    background-color: chartreuse;
-}
-
 .padding-example {
+    display:inline-block;
     padding: 30px;
     border: 2px solid coral;
 }
